@@ -1,2 +1,2 @@
-# github-poc
-Test POC
+# GitHub POC
+This is my first GitHub proof of concept.
